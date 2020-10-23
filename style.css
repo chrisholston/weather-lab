@@ -1,0 +1,19 @@
+
+
+body {
+    font-family: Tahoma, Geneva, sans-serif;
+    height: 100vh; 
+    margin: 0;
+    display: grid;
+    grid-template-rows: 3rem auto; 
+    color: rgb(35, 26, 56);
+    background-color: bisque;
+  }
+
+h1 {
+    text-align:center;
+}
+
+#menu{
+    text-align: center;
+}
